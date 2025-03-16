@@ -149,7 +149,14 @@ A web browser page will open up. Choose the project `ST50_report.ipynb` from the
 
 ## More from Leonardo Valoppi 👨‍💻
 
-[Let's connect on LinkedIn!](https://linkedin.com/in/leonardo-valoppi)
+[LinkedIn](https://linkedin.com/in/leonardo-valoppi)
 
-[Look at my GitHub profile and continue to explore my portfolio.](https://github.com/leonardovaloppi)  
+[GitHub Profile](https://github.com/leonardovaloppi)  
+
+[Tableau Public](https://public.tableau.com/app/profile/leonardo.valoppi/vizzes)
+
+
+---
+
+[Table of Contents](#table-of-contents)
 
