@@ -94,7 +94,7 @@ If you have Conda installed, you can easily create a new environment with all th
 Open your Terminal and move to the folder where you installed the material:
 
 ```bash
-cd  *selected the installation folder*
+cd Spotify-Top-50-Songs-main
 ```
 
 Create a new environment from the `.yml` file:
@@ -120,7 +120,7 @@ A web browser page will open up. Choose the project `ST50_report.ipynb` from the
 Open your Terminal and move to the folder where you installed the material:
 
 ```bash
-cd  *selected the installation folder*
+cd Spotify-Top-50-Songs-main
 ```
 Create a new empty envorinment called `ST50_env`:
 ```bash
