@@ -25,11 +25,11 @@ Perform exploratory data analysis on the **Spotify's Top 50 Tracks of 2020** and
 
 ## Project Files 🗂️
 
-- `ST50_dataset.csv` → dataset used for the analysis  
+- `ST50_dataset.csv` → Dataset used for the analysis  
 - `ST50_report.ipynb` → Jupyter Notebook with the analysis report
 - `ST50_banner.jpg` → Banner with the Spotify logo
 - `ST50_conda-env.yml` → Conda environment with all the packages (requires Conda)
-- `ST50_pip-env.txt` → Pacakge list for Pip venv (if you don't use Conda)
+- `ST50_pip-env.txt` → Package list for Pip venv (if you don't use Conda)
 
 ---
 
